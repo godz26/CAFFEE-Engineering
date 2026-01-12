@@ -13,7 +13,7 @@ const AboutUs = () => {
         <div className="flex flex-col lg:flex-row items-center lg:items-start gap-10 lg:mt-10">
             <div className="lg:w-1/2 lg:h-170 mt-10 px-5 bg-red flex flex-col justify-center">
                 <img 
-                    src="/public/images/CaffeLogo1.png"
+                    src="/images/CaffeLogo1.png"
                     alt="About Us" 
                     className="w-100 h-100 rounded-lg mx-auto"
                 />
