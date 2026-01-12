@@ -85,5 +85,5 @@
 }
 
 #home, #about {
-  scroll-margin-top: 20px; /* match header height */
+  @apply scroll-margin-top: 20px; /* match header height */
 }
