@@ -84,6 +84,10 @@
   @apply translate-y-0;
 }
 
-#home, #about {
-  @apply scroll-margin-top: 20px; /* match header height */
+#home {
+  scroll-margin-top: 96px;
+}
+
+#about {
+  scroll-margin-top: 20px;
 }
