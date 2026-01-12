@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import Logo from "../../public/images/caffeLogo.png";
 import { RiCloseLine, RiMenuLine } from "@remixicon/react";
 import { navItems } from '../Constant/data';
 
@@ -16,7 +15,7 @@ const Header = () => {
 
             {/* Logo */}
             <a href="#home" className='flex items-center gap-1 hover:text-orange-50 transition-colors'>
-                <img src={Logo} alt="Logo" width={65} height={50}/>
+                <img src="../../public/images/caffeLogo.png" alt="Logo" width={65} height={50}/>
                 <h1 className='text-2xl font-bold'>CAFFE ENGINEERING</h1>
             </a>
 
@@ -26,7 +25,7 @@ const Header = () => {
                 <div className='absolute top-8 left-8 right-8 flex items-center justify-between mb-10'>
                     {/* Logo */}
                     <a href="#about" className='flex items-center gap-1 hover:text-orange-50 transition-colors'>
-                        <img src={Logo} alt="Logo" width={65} height={50}/>
+                        <img src="../../public/images/caffeLogo.png" alt="Logo" width={65} height={50}/>
                         <h1 className='text-2xl font-bold'>CAFFE ENGINEERING</h1>
                     </a>
                     <button onClick={toggleMenu} className='hover:text-orange-50'>

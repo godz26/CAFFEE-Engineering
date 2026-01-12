@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react'
-import picture1 from '../../public/images/picture1.jpg'
-import picture2 from '../../public/images/picture2.jpg'
-import picture3 from '../../public/images/picture3.jpg'
 
 const Home = () => {
-  const images = [picture1, picture2, picture3]
+  const images = [
+  '/images/picture1.jpg',
+  '/images/picture2.jpg',
+  '/images/picture3.jpg'
+]
   const [current, setCurrent] = useState(0)
 
   useEffect(() => {
