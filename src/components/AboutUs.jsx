@@ -20,26 +20,14 @@ const AboutUs = () => {
             </div>
             <div className="lg:w-1/2 px-5 text-center lg:text-left">
                 <h1 className="text-black text-xl font-bold mb-4 text-center">Our Story</h1>
-                <p className="text-gray-700 mb-5">
+                <p className="text-gray-700 mb-5 text-justify indent-8">
                     CAFFE Engineering was established in October 2003. The company serves in the Design, Estimates, and Installations of Commercial and Industrial MEPF.
-                </p>
-                <p className="text-gray-700 mb-5">
-                    CAFFE ENGINEERING’s first project was at San Miguel Corporation BPSI Plant for Contract Preventive Maintenance in Electrical and Mechanical Equipment’s and Motors. Later on the following year in Mactan Economic Zone Plant at LEAR Corporation as one of supplier/contractor in the Facilities Department.
-                </p>
-                <p className="text-gray-700 mb-5">
-                    In 2007, Caffe Engineering entered SM Prime Holdings serving in Electrical, Mechanical, Fire Protection, and Fire Detection and Protection in the operation department.
-                </p>
-                <p className="text-gray-700 mb-5">
-                    From 2012 to 2015, was part of the APM Mall Construction for Electrical works, Moreover, In those years, CAFFE ENGINEERING joined with other specialized service providers in construction industries in Private and Government local projects.
-                </p>
-                <p className="text-gray-700 mb-5">
-                    Last 2015 to 2017, CAFFE ENGINEERING joined IPM Development Corporation in Aboitiz Housing Projects for Electrical and Auxiliary activities at PREVEJA Phase 2.
-                </p>
-                <p className="text-gray-700 mb-5">
-                    From the same year 2017 to March 2020, CAFFE ENGINEERING serves at the Mactan International Airport CAAP Building and the Renovation of Terminals one and two for Electrical installations and Automation works (Fuel Hydrant).
-                </p>
-                <p className="text-gray-700 mb-5">
-                    CAFFE ENGINEERING was affected and decided to venture out into other businesses. Hence, Easycure Construction and Supply Co. were established. At present, CAFFE ENGINEERING continues to serve at SM Prime Holdings Inc. and at Johndorf Ventures Corporation.
+                    <br/><br/>CAFFE ENGINEERING’s first project was at San Miguel Corporation BPSI Plant for Contract Preventive Maintenance in Electrical and Mechanical Equipment’s and Motors. Later on the following year in Mactan Economic Zone Plant at LEAR Corporation as one of supplier/contractor in the Facilities Department.
+                    <br/><br/>In 2007, Caffe Engineering entered SM Prime Holdings serving in Electrical, Mechanical, Fire Protection, and Fire Detection and Protection in the operation department.
+                    <br/><br/>From 2012 to 2015, was part of the APM Mall Construction for Electrical works, Moreover, In those years, CAFFE ENGINEERING joined with other specialized service providers in construction industries in Private and Government local projects.
+                    <br/><br/>Last 2015 to 2017, CAFFE ENGINEERING joined IPM Development Corporation in Aboitiz Housing Projects for Electrical and Auxiliary activities at PREVEJA Phase 2.
+                    <br/><br/>From the same year 2017 to March 2020, CAFFE ENGINEERING serves at the Mactan International Airport CAAP Building and the Renovation of Terminals one and two for Electrical installations and Automation works (Fuel Hydrant).
+                    <br/><br/>CAFFE ENGINEERING was affected and decided to venture out into other businesses. Hence, Easycure Construction and Supply Co. were established. At present, CAFFE ENGINEERING continues to serve at SM Prime Holdings Inc. and at Johndorf Ventures Corporation.
                 </p>
             </div>
         </div>

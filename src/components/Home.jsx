@@ -17,7 +17,7 @@ const Home = () => {
   }, [images.length])
 
   return (
-    <section className="w-full bg-white lg:px-20 pt-10 lg:pt-24 pb-24" id="home">
+    <section className="w-full bg-white lg:px-20 pt-10 lg:py-36 pb-24" id="home">
       <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
 
         {/* Banner / Slideshow */}
