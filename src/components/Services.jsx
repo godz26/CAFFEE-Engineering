@@ -6,7 +6,7 @@ const Services = () => {
         <div className="container lg:py-15 py-15 flex flex-col items-center">
             <div className="mx-auto">
                 <h1 className="text-black text-3xl font-bold text-center px-10 mb-2">Our Services</h1>
-                <div className='w-25 h-0.5 mx-auto bg-orange-50 lg:mb-10'></div>
+                <div className='w-25 h-0.5 mx-auto bg-orange-50 mb-10'></div>
                 <div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4 gap-4 sm:gap-6">
                     <div className="faqItem relative bg-gray-50 p-6 shadow-md">
                         <img src="/Services/1.jpg" alt="Electrical Design" className="w-full h-48 object-cover rounded-[14px] mb-4" />
