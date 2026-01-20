@@ -37,7 +37,7 @@ const Header = () => {
                 <ul className="space-y-5 text-center">
                     {navItems.map((item) => (
                       <li key={item.id}>
-                        <a href={item.href} className='text-lg font-medium hover:text-orange-50 transition-colors'>{item.label}</a>
+                        <a href={item.href} className='text-lg font-medium hover:text-orange-50 transition-colors' onClick={() => setIsMenuOpen(false)}>{item.label}</a>
                       </li>
                     ))}
                 </ul>

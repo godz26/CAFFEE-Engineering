@@ -34,19 +34,24 @@ const Services = () => {
                         <p className='text-justify indent-8'>We provide HVAC installation services designed to maintain optimal indoor comfort, air quality, and energy efficiency in residential, commercial, and industrial facilities.</p>
                     </div>
                     <div className="faqItem relative bg-gray-50 p-6 shadow-md">
-                        <img src="/Services/6.jpg" alt="Fabrication and Installation" className="w-full h-48 object-cover rounded-[14px] mb-4" />
-                        <h3 className="text-xl font-semibold mb-4 text-center">Fabrication and Installation</h3>
+                        <img src="/Services/6.jpg" alt="FIRE PROTECTION WORKS" className="w-full h-48 object-cover rounded-[14px] mb-4" />
+                        <h3 className="text-xl font-semibold mb-4 text-center">FIRE PROTECTION WORKS</h3>
                         <p className='text-justify indent-8'>We install fire protection systems to safeguard life and property. Our services comply with fire safety codes and include proper system integration and testing.</p>
                     </div>
                     <div className="faqItem relative bg-gray-50 p-6 shadow-md">
-                        <img src="/Services/7.jpeg" alt="Fabrication and Installation" className="w-full h-48 object-cover rounded-[14px] mb-4" />
-                        <h3 className="text-xl font-semibold mb-4 text-center">Fabrication and Installation</h3>
+                        <img src="/Services/7.jpeg" alt="FIRE DETECTION SYSTEM" className="w-full h-48 object-cover rounded-[14px] mb-4" />
+                        <h3 className="text-xl font-semibold mb-4 text-center">FIRE DETECTION SYSTEM</h3>
                         <p className='text-justify indent-8'>We supply and install fire detection and alarm systems that provide early warning and rapid response. Our systems are designed for accuracy, reliability, and regulatory compliance.</p>
                     </div>
                     <div className="faqItem relative bg-gray-50 p-6 shadow-md">
-                        <img src="/Services/8.jpg" alt="Fabrication and Installation" className="w-full h-48 object-cover rounded-[14px] mb-4" />
-                        <h3 className="text-xl font-semibold mb-4 text-center">Fabrication and Installation</h3>
+                        <img src="/Services/8.jpg" alt="PLUMBING WORKS" className="w-full h-48 object-cover rounded-[14px] mb-4" />
+                        <h3 className="text-xl font-semibold mb-4 text-center">PLUMBING WORKS</h3>
                         <p className='text-justify indent-8'>We provide complete plumbing works including water supply, sanitary, and drainage system installation. All installations are performed in accordance with plumbing standards and project requirements.</p>
+                    </div>
+                    <div className="faqItem relative bg-gray-50 p-6 shadow-md">
+                        <img src="/Services/9.png" alt="CIVIL ENGEERING WORKS" className="w-full h-48 object-cover rounded-[14px] mb-4" />
+                        <h3 className="text-xl font-semibold mb-4 text-center">CIVIL ENGEERING WORKS</h3>
+                        <p className='text-justify indent-8'>We deliver professional civil engineering services including design, supervision, and construction, ensuring projects are safe, efficient, and compliant with standards.</p>
                     </div>
                 </div>
             </div>
